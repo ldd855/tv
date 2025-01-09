@@ -15,13 +15,15 @@
 
 { "url": "http://tv.nxog.top/m/", "name": "欧歌备用" },
 
-{ "url": "https://9877.kstore.space/FourD/api.json", "name": "潇洒" },
+{ "url": "https://7337.kstore.space/twvip/自用测试.json", "name": "天微" },
 
 { "url": "https://gh.aptv.app/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", "name": "南风" },
 
-{ "url": "http://kxrj.site:55/天天开心", "name": "天天开心" },
+{ "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json", "name": "道长" }, 
 
 { "url": "https://100km.top/0", "name": "骚零" },
+
+{ "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json", "name": "不良帅" },
 
 { "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json", "name": "短剧频道" },
 
