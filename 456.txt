@@ -9,13 +9,9 @@
 
 { "url": "https://盒子迷.top/禁止贩卖", "name": "盒子迷" },
 
-{ "url": "http://ok321.top/ok", "name": "OK" },
-
 { "url": "https://tv.xn--11x555b.top/svip", "name": "蜗牛线路" },
 
 { "url": "https://700sjro44343.vicp.fun/vip/vip/tv.json", "name": "不具名" },
-
-{ "url": "https://raw.liucn.cc/box/m.json", "name": "老刘备" },
 
 { "url": "http://tvbox.王二小放牛娃.top", "name": "王二小" },
 
@@ -24,6 +20,8 @@
 { "url": "https://o.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=o", "name": "欧歌" },
 
 { "url": "http://tv.nxog.top/m/", "name": "欧歌备用" },
+
+{ "url": "https://raw.liucn.cc/box/m.json", "name": "老刘备" },
 
 { "url": "https://7337.kstore.space/twvip/自用测试.json", "name": "天微" },
 
